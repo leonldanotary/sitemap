@@ -8,74 +8,644 @@
 
 
 <url>
-  <loc>https://www.leonldanotary.com/</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/home</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/about.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/about</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/document-serving.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/family-law</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/family-law.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/small-claims</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/living-trust.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/document-serving</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/notary-services.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/living-trust</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/small-claims.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/tax-services</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/tax-services.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/notary-services</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/translation.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/services/translation</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/app.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/contact</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/faq</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.leonldanotary.com/resources</loc>
-  <lastmod>2025-12-04T08:53:15+00:00</lastmod>
+  <loc>https://leonldanotary.com/privacy-policy.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/terms-of-service.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/document-serving</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/family-law</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/living-trust</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/notary-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/small-claims</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/translation</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/contact</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/privacy-policy</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/terms-of-service</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/tax-services</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://leonldanotary.com/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/services/contact.html</loc>
+  <lastmod>2026-01-06T09:56:58+00:00</lastmod>
+  <priority>0.00</priority>
 </url>
 
 
